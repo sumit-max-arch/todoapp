@@ -7,7 +7,7 @@ Mark a Todo item as completed and show green text
 Remove a Todo item
 
 Usage : 
-Clone the repository: 
+Clone the repository: https://github.com/sumit-max-arch/todoapp.git
 
 Install dependencies:
 cd TODOAPP
@@ -17,4 +17,3 @@ Run the app:
 npm start
 
 Open http://localhost:3000 to view the app in your browser.
-.
